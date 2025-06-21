@@ -23,7 +23,7 @@ app.use(logger);
 app.use(auth);
 
 app.use('/disasters', disasterRoutes);
-app.use('/resources', resourceRoutes);
+app.use('/disasters', resourceRoutes);
 app.use('/disasters', socialMediaRoutes);
 app.use('/disasters', updateRoutes);
 app.use('/disasters', verificationRoutes);
