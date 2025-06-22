@@ -26,9 +26,7 @@ This is my submission for the **Disaster Response Coordination Platform** assign
 - Provided real-time updates using Socket.IO.
 - Deployed the frontend on **Vercel** and backend on **Render**.
 
-Live Demo: [Insert Live Frontend URL]  
-Backend API: [Insert Live Backend URL]  
-GitHub Repo: [Insert GitHub Repo URL]
+Live Demo: https://disaster-frontend-neon.vercel.app/
 
 ---
 
